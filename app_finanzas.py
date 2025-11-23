@@ -19,7 +19,8 @@ DEFAULT_CONFIG = {
             "Parqueadero": 70000,
             "Internet": 72000,
             "Luz (Promedio)": 80000,
-            "Agua (Promedio)": 62000
+            "Agua (Promedio)": 62000,
+            "Cuotas en mora": 0
         }
     },
     "DEUDAS_RECURRENTES": [
@@ -28,7 +29,7 @@ DEFAULT_CONFIG = {
         {"Concepto": "Bancolombia Ecard Pesos",    "Moneda": "COP", "Pago_Usual": 134000.0},
         {"Concepto": "Bancolombia Ecard Dólares",  "Moneda": "USD", "Pago_Usual": 10.0},
         {"Concepto": "Banco de Bogotá",            "Moneda": "COP", "Pago_Usual": 840000.0},
-        {"Concepto": "Nequi",                      "Moneda": "COP", "Pago_Usual": 181000.0}, # A veces es 0
+        {"Concepto": "Nequi",                      "Moneda": "COP", "Pago_Usual": 181000.0}, 
     ]
 }
 
