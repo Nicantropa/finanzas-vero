@@ -30,12 +30,12 @@ DEFAULT_CONFIG = {
     "DEUDAS_RECURRENTES": [
         # Pon aquí lo que "usualmente" pagas de mínimo. 
         # Si varía mucho, puedes dejar un estimado o 0.
-        {"Concepto": "Bancolombia Dorada Pesos",   "Moneda": "COP", "Pago_Usual": 150000.0},
-        {"Concepto": "Bancolombia Dorada Dólares", "Moneda": "USD", "Pago_Usual": 50.0},
-        {"Concepto": "Bancolombia Ecard Pesos",    "Moneda": "COP", "Pago_Usual": 80000.0},
-        {"Concepto": "Bancolombia Ecard Dólares",  "Moneda": "USD", "Pago_Usual": 25.0},
-        {"Concepto": "Banco de Bogotá",            "Moneda": "COP", "Pago_Usual": 200000.0},
-        {"Concepto": "Nequi",                      "Moneda": "COP", "Pago_Usual": 0.0}, # A veces es 0
+        {"Concepto": "Bancolombia Dorada Pesos",   "Moneda": "COP", "Pago_Usual": 1185000.0},
+        {"Concepto": "Bancolombia Dorada Dólares", "Moneda": "USD", "Pago_Usual": 94.0},
+        {"Concepto": "Bancolombia Ecard Pesos",    "Moneda": "COP", "Pago_Usual": 134000.0},
+        {"Concepto": "Bancolombia Ecard Dólares",  "Moneda": "USD", "Pago_Usual": 10.0},
+        {"Concepto": "Banco de Bogotá",            "Moneda": "COP", "Pago_Usual": 840000.0},
+        {"Concepto": "Nequi",                      "Moneda": "COP", "Pago_Usual": 181000.0}, # A veces es 0
     ]
 }
 
